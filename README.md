@@ -20,6 +20,14 @@ All resources and assignments for Team-CC04 for the 2020 Uplift Project
 > <a href="https://www.geeksforgeeks.org/linear-search/">Linear Search</a> <br>
 > <a href="https://www.geeksforgeeks.org/binary-search/">Binary Search</a> <br>
 
+
+## File Handling
+> <a href="https://www.w3schools.in/cplusplus-tutorial/working-with-files/"> Basics of File Handling </a><br>
+> <a href="https://halls-of-valhalla.org/beta/codes/program-to-create-add-modify-delete-display-search-in-binary-file,72/"> File Handling Functions </a> <br>
+> <a href="https://www.sanfoundry.com/cplusplus-programming-questions-answers-file-handling/"> Attempt this little quiz on File Handling </a><br>
+> <a href="https://www.studocu.com/en-gb/document/university-of-northampton/programming/lecture-notes/file-handling-in-c-lectures-notes/3332637/view"> File Handling Questions and Codes </a><br>
+
+
 ## Resources for Competitive Programming:
 > <a href="https://www.codechef.com/LEARNDSA"> Codechef DSA Series </a><br>
 > <a href="https://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm"> DS Algo Theory </a> <br>
